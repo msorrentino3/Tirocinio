@@ -10,6 +10,7 @@ Il sistema è in grado di classificare log di rete come attacco o traffico norma
 # Contenuto del progetto
 AiAgentMultiArchitetture.py → script principale
 data.csv → dataset di addestramento
+
 README.md → guida all’uso
 
 # Requisiti di sistema
@@ -19,7 +20,7 @@ Sistema operativo: Windows / macOS / Linux
 
 # Clonare o scaricare il repository
 Opzione consigliata (Git):
-git clone https:
+git clone https://github.com/msorrentino3/Tirocinio/blob/main/AiAgentMultiArchitetture.py
 cd NOME_REPOSITORY
 Oppure:
 Code → Download ZIP
